@@ -1,0 +1,8 @@
+torch
+torchvision
+git+https://github.com/Yepness/EasyOCR.git # until (https://github.com/JaidedAI/EasyOCR/pull/1283) gets merged in
+tensorflow
+numpy
+opencv-python
+matplotlib
+notebook
